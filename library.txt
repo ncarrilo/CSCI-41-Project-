@@ -1,0 +1,20 @@
+1 Disney+ - 2019 - Family 
+2 Hulu - 2004 - Adult/General
+3 Amazon Prime Video - 2015 - General 
+4 Hbo Max - 2020 - Adult/General
+5 Peacock - 2020 - Adult/General
+6 Paramount Plus - 2020 - Adult/General
+7 Tubi - 2017 - Adult/General
+8 Apple TV+ - 2019 - Adult/General
+9 Funimation - 2015 - Anime
+10 Netflix - 2010 - Adult/General
+11 Crunchyroll - 2010 - Anime
+12 Starz - 2016 - Adult/General 
+13 Showtime - 2011 - Adult/General 
+14 Discovery+ - 2021 - General
+15 FXNow - 2016 - Adult/General
+16 Cinemax - 2010 - Adult/General
+17 VUDU - 2009 - General
+18 Tubi - 2014 - General
+19 The Roku Channel - 2008 - General 
+20 SYFY - 2016 - General 
