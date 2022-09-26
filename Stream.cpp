@@ -33,8 +33,6 @@ int main() {
   iFile.open("library.txt",ios::in); //opens input file
   oFile.open("libraryNew.txt",ios::app); //opens output file
   //wil also append any new information added by the user
-
-  Profit p; //Decalring a Profit Structure 
   
   while(option){
     int num1;
