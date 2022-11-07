@@ -23,5 +23,5 @@ On **line 119** is the function that allows the user to remove a new node/charge
 
 On **line 147** is the function that allows the user to search node/charge.
 
-In stream.h on line 49 we have included class LinkNode dedicated to implementing the Linked List
+In stream.h on **line 49** we have included class LinkNode dedicated to implementing the Linked List
 to store charges. 
