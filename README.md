@@ -20,7 +20,7 @@ On **line 18** on file[streamProfit.cpp]. Here is where you can find the functio
 structures to calculate the profit each streamin service makes monthly. This array can be searched on **line 155** 
 and can be sorted on **line 99**
 
-On **line 47** on file[stream.h]. Here is where you cqan find our implementation of a linked
+On **line 47** on file[stream.h]. Here is where you can find our implementation of a linked
 list which allows the user to view and edit the charges of the streaming service. On **line 121** is the function
 that displays the linked list in file[streamCharge.cpp]. On **line 133** is the function to remove an element. Lastly **line 161** 
 is the function to search the linked list 
